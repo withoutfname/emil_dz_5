@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block title %}Item List{% endblock %}
+
+{% block content %}
+<h1>Items List ({{ object_list|length }} total)</h1>
+<ul>
+    {% for item in object_list %}
+    <li>{{ item.name|truncatechars:15 }}</li>
+    {% endfor %}
+</ul>
+{% endblock %}
