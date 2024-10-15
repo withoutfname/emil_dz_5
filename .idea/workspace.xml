@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="66e0ece6-03f5-4383-93f5-7a3307dd9b69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/emil_dz_5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/templates/item_confirm_delete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/templates/item_detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/templates/item_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/templates/item_list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myproject/myapp/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="66e0ece6-03f5-4383-93f5-7a3307dd9b69" name="Changes" comment="дз 5 init" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +46,30 @@
       <option name="presentableId" value="Default" />
       <updated>1728988986979</updated>
     </task>
+    <task id="LOCAL-00001" summary="дз 5 init">
+      <option name="closed" value="true" />
+      <created>1728989940255</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728989940255</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="дз 5 init" />
+    <option name="LAST_COMMIT_MESSAGE" value="дз 5 init" />
   </component>
 </project>
